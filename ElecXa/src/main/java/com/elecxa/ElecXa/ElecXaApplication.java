@@ -8,7 +8,6 @@ public class ElecXaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ElecXaApplication.class, args);
-		System.out.println("helllo");
 	}
 
 }
